@@ -1,2 +1,2 @@
-should be cool minecraft space mod thingy but i haave no idea what i am doing
+it was supposed to be minecraft space mod thingy but now its like a template for other mods
 
